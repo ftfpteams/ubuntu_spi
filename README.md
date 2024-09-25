@@ -7,7 +7,7 @@ open Software&Update->Ubuntu software,enable "Source code" label
 
 ```bash
 uname -a
-Linux test-LE14U 6.5.13 #2 SMP PREEMPT_DYNAMIC Mon Jun 17 15:45:27 CST 2024 x86_64 x86_64 x86_64 GNU/Linux
+Linux test 6.5.13 #2 SMP PREEMPT_DYNAMIC Mon Jun 17 15:45:27 CST 2024 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
 ```bash
