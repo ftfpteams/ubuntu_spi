@@ -109,5 +109,8 @@ Notice:
 ```c
 /*if spi transfer err,change line 493: spi->mode = SPI_MODE_0*/
 	spi->mode = SPI_MODE_0|SPI_CS_HIGH;
+
+support Module FT9369
+this module whill be support next plan:FT9368/FT9365
 ```
 
